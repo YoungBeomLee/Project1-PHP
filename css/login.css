@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.login_test{
+    display: block;
+    position: fixed;
+    width: 700px;
+    height: 700px;
+    background: rgba(131, 191, 240, 0.7);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.4);
+    z-index: 9999;
+    font-weight: 500;
+    font-size: 1em;
+    padding: 3em;
+    box-sizing: border-box;
+    line-height: 2;
+    top: 15%;
+    left: 30%;
+    border-radius: 15px;
+}
+.login_test h1{
+color: #fff;
+font-size: 2em;
+}
